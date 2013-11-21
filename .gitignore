@@ -2,4 +2,5 @@
 *.html
 test/
 *.cs
+temp
 
